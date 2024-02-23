@@ -1,3 +1,9 @@
+# INTRODUCTION 简介
+
+This repository compiles and stores course materials for Computer Science and related majors at the University of Melbourne. It aims to provide students with a convenient platform for reading and studying.
+
+本仓库收集并存储了墨尔本大学计算机科学及其相关专业的课程材料，目的在于为同学们提供一个便捷的阅读和学习平台。
+
 # DISCLAIMER
 
 This personal repository is created and maintained for the sole purpose of storing e-books collected from the Internet, exclusively for academic research and study while attending the University of Melbourne. It is intended strictly for personal and non-commercial use.
